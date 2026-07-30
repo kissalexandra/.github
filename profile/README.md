@@ -18,8 +18,6 @@
         in 2021-2022, i was well known for my <a href="https://idownloadblog.com/?s=litten" target="_blank">ios jailbreak tweaks</a>.
         <br/>
         my self-hosted stack consists of mikrotik devices, a mac mini running <a href="https://orbstack.dev" target="_blank">orbstack</a> and a vps used for <a href="https://pangolin.net" target="_blank">pangolin</a>.
-        <br/>
-        <a href="https://scarletnexus.fandom.com/wiki/Kasane_Randall" target="_blank">kasane randall</a>'s other-suppression-force id is the meaning of my username.
     </samp>
 </p>
 
